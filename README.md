@@ -1,4 +1,4 @@
-ByteTunes – A Retro Napster-Inspired Music Streaming Experience*
+*ByteTunes – A Retro Napster-Inspired Music Streaming Experience*
 
 ### 1. Introduction  
 ByteTunes is a retro-styled music streaming app that brings back the nostalgia of early peer-to-peer file sharing and MP3 players while also integrating modern streaming via Spotify. The app allows users to browse and play locally stored songs while also fetching their current Spotify playback information.
